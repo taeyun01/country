@@ -1,4 +1,3 @@
-import React from "react";
 import { CountryWithIsDone } from "../types/countryType";
 
 interface CountryProps {

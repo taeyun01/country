@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { getCountry } from "../api/api";
 import { CountryWithIsDone } from "../types/countryType";
 import CountryItem from "./CountryItem";
